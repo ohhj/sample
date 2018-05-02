@@ -1,4 +1,16 @@
 puts "fugafugae"
 
 
-puts "piyo"
+puts "piypipyp"
+
+
+puts "fugafugae"
+
+
+
+
+
+
+
+
+
