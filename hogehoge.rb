@@ -1,0 +1,4 @@
+puts "fugafugae"
+
+
+puts "piyo"
